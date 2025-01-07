@@ -1,0 +1,19 @@
+Habilidades y Tecnologías Aplicadas
+
+    Manipulación de Datos:
+        Utilicé la biblioteca pandas para leer, procesar y agrupar datos en formato CSV.
+        Agrupé los datos por categorías (productos) y realicé cálculos de suma para determinar cuáles productos eran los más vendidos.
+
+    Visualización de Datos:
+        Implementé gráficos de barras con matplotlib para ilustrar visualmente los productos más vendidos, facilitando la interpretación de la información.
+
+    Automatización y Escalabilidad:
+        El script es fácilmente adaptable para analizar datos de diferentes fuentes o formatos, lo que lo convierte en una solución flexible para el análisis de ventas.
+
+Resultados y Aprendizajes
+
+    Identifiqué las tendencias en las ventas de productos, ayudando a priorizar inventarios y estrategias de marketing.
+    Aprendí a trabajar con conjuntos de datos en tiempo real y a crear visualizaciones claras y comprensibles para usuarios no técnicos.
+
+Impacto Potencial
+Este proyecto es útil para empresas que buscan analizar su desempeño en ventas, identificar productos más populares y generar insights para decisiones estratégicas basadas en datos.
